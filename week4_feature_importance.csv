@@ -1,0 +1,9 @@
+Feature,Importance
+Distance_km,0.49996255768191167
+Delay_Time_hr,0.3549418250413535
+Expected_Delivery_Time_hr,0.1450956172767348
+Order_Quantity,0.0
+Fuel_Cost_INR,0.0
+Transportation_Cost_INR,0.0
+Vehicle_Capacity,0.0
+Vehicle_Utilization_pct,0.0
